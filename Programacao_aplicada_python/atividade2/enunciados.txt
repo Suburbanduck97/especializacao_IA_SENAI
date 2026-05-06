@@ -1,0 +1,73 @@
+1- Você está desenvolvendo um pequeno programa para uma calculadora
+simples. O sistema deve permitir que o usuário digite dois números e visualize
+o resultado da soma. Escreva um programa que solicite dois números ao
+usuário e exiba a soma desses números.
+Resposta:
+
+2- Em um sistema de validação, é necessário identificar se um número é par ou
+ímpar para aplicar determinadas regras. Em um sistema de validação, é
+necessário identificar se um número é par ou ímpar para aplicar determinadas
+regras.
+Resposta:
+
+Ótima atividade. Obrigado!
+
+3- Você está desenvolvendo um sistema escolar que precisa calcular a média
+de notas de um aluno. Escreva um programa que peça três números ao usuário
+e calcule a média aritmética deles.
+Resposta:
+
+4- Você está analisando um código que gera a sequência de Fibonacci, muito
+utilizada em matemática e computação para representar padrões numéricos.
+Este código calcula a sequência de Fibonacci: A sequência de Fibonacci é
+uma série de números onde cada número é a soma dos dois números
+anteriores, começando com 0 e 1. F(0) = 0, F(1) = 1, F(n) = F(n-1) + F(n-2) para
+n &gt; 1. Responda às perguntas a seguir sobre esse código:
+a, b = 0, 1
+print(&quot;Sequência de Fibonacci:&quot;)
+# A função range gera uma sequência de números inteiros.
+for _ in range(10):
+print(a, end=&quot; &quot;)
+a, b = b, a + b
+a) O que o código acima faz?
+
+Ótima atividade. Obrigado!
+
+Resposta:
+
+b) O que significam as variáveis a e b no início do código?
+Resposta:
+
+c) Como você modificaria o código para gerar os primeiros 20 números da
+sequência de Fibonacci?
+Resposta:
+
+d) Como você modificaria o código para começar a sequência de Fibonacci
+com outros dois números, por exemplo, 2 e 3?
+Resposta:
+
+e) Qual é a função do loop for neste código?
+Resposta:
+
+5- Em um sistema de avaliação, a nota do aluno determina uma mensagem
+correspondente ao seu desempenho. Crie um programa que solicite ao usuário
+
+Ótima atividade. Obrigado!
+
+que digite uma nota do aluno. Em seguida crie uma estrutura condicional para
+verificar a nota e imprimir uma mensagem correspondente ao desempenho do
+aluno. Se a nota for maior ou igual a 9.0, exibirá &quot;Desempenho excelente!&quot;. Se
+for maior ou igual a 7.0, exibirá &quot;Desempenho bom!&quot;. Se for maior ou igual a 5.0,
+exibirá &quot;Desempenho razoável!&quot;. Caso contrário, exibirá &quot;Desempenho
+insuficiente!&quot;.
+Resposta:
+
+6- Em um sistema de avaliação, a nota do aluno determina uma mensagem
+correspondente ao seu desempenho. Crie um programa que verifique se um
+número é positivo, negativo ou zero.
+Resposta:
+
+7- A prática da tabuada é importante para o aprendizado de operações
+matemáticas básicas. Escreva um programa que peça um número ao usuário e
+exiba a tabuada desse número de 1 a 10.
+Resposta:
