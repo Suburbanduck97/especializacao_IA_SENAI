@@ -1,0 +1,38 @@
+A) Duas variáveis a e b são declaradas e iniciadas respectivamente com valores 0, 1.
+Posteriormente é declarada uma estrutura de repetição for que se repetirá 10 vezes e 
+dentro de sua estrutura o valor de a => b e b => a + b, veja no exemplo abaixo
+
+debugguer 1: 
+a = 0 e b = 1
+
+estrutura for = 0:
+    imprime = 0
+    a = 1 e b = 1 (0 + 1)
+
+debugguer 2:
+estrutura for = 1:
+    imprime = 1
+    a = 1 e b = 2 (1 + 1)
+
+debugguer 3:
+estrutura for = 2:
+    imprime = 1
+    a = 2 e b = 3 (3 + 1)
+
+debugguer 4:
+estrutura for = 3:
+    imprime = 2
+    a = 3 e b = 5 (2 + 5)
+
+...
+
+E assim segue o código até a estrutura alcançar o range 9.
+
+B) São variáveis que mudam seus valores ao decorrer da repetição do for, são variáveis
+auxiliares que dão vida a sequência de fibonacci
+
+C) apenas aumentando o range no laço for para 20
+
+D) Mudando o valor inicial de a e b para os respectivos valores, a = 2 e b = 3.
+
+E) Repetir a sequência n vezes para executar a soma entre termos.
