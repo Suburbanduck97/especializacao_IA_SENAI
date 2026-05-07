@@ -1,3 +1,13 @@
+def sugerir_filmes(filmes, categoria):
+    categoria = categoria.strip().lower().title()
+
+    for filme in filmes:
+        if categoria in filme['categoria']:
+            return filme
+    
+    return 'Categoria não encontrada na base de dados!'
+
+
 filmes = [
     {
         'nome':'O Senhor dos Anéis: A Sociedade do Anel',
@@ -16,6 +26,6 @@ filmes = [
     }
 ]
 
-categoria = 'Drama'
-for filme in filmes:
-    print(filme['categoria'])
+categoria = input('Digite uma categoria de filme qualquer: ')
+response = sugerir_filmes(filmes, categoria)
+print(response)
