@@ -28,8 +28,6 @@ class Registros():
         for dado in self.credenciais:
             if dado.get_credential() == login and dado.get_password() == senha:
                 return True
-            else:
-                continue
 
         return False
 
