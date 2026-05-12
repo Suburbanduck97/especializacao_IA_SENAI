@@ -1,0 +1,66 @@
+1- Sistemas digitais precisam armazenar informações de usuários para
+utilização posterior. Uma forma simples de realizar isso é salvando os dados
+em arquivos. Crie um programa que:
+a) Solicite o nome de um usuário
+b) Crie um arquivo chamado usuarios.txt
+c) Salve o nome digitado dentro do arquivo
+Resposta:
+
+2- Chatbots normalmente armazenam mensagens enviadas pelos usuários
+para análise e histórico de atendimento. Desenvolva um programa que:
+a) Solicite ao usuário uma mensagem
+b) Salve a mensagem em um arquivo chamado chatbot.txt
+Resposta:
+
+Ótima atividade. Obrigado!
+
+3- Sistemas educacionais armazenam notas dos alunos para consultas futuras.
+Desenvolva um programa que:
+a) Solicite duas notas ao usuário
+b) Salve as notas em um arquivo chamado notas.txt
+Resposta:
+
+4- Aplicações frequentemente precisam recuperar informações armazenadas
+anteriormente. Crie um programa que:
+a) Abra um arquivo chamado dados.txt
+b) Leia o conteúdo do arquivo
+c) Exiba as informações na tela
+Resposta:
+
+5- Muitos sistemas registram acessos dos usuários para monitoramento e
+segurança. Crie um programa que:
+a) Solicite o nome do usuário
+b) Adicione o nome ao arquivo acessos.txt sem apagar os dados anteriores
+Resposta:
+
+6- Aplicações com IA podem salvar respostas geradas automaticamente para
+futuras análises. Desenvolva um programa que:
+
+Ótima atividade. Obrigado!
+
+a) Solicite uma resposta do usuário
+b) Armazene a resposta em um arquivo chamado respostas.txt
+c) Exiba uma mensagem de confirmação
+Resposta:
+
+7- Sistemas de produtividade utilizam arquivos para armazenar tarefas e
+lembretes. Implemente um programa que:
+a) Permita ao usuário digitar 3 tarefas
+b) Salve cada tarefa em uma nova linha do arquivo tarefas.txt
+Resposta:
+
+8- Sistemas de IA analisam opiniões de usuários para identificar sentimentos
+positivos ou negativos. Implemente um programa que:
+1. Solicite ao usuário uma palavra
+2. Verifique se ela representa sentimento positivo ou negativo
+3. Salve o resultado da análise em um arquivo chamado sentimentos.txt
+3.1 Positivo → “bom”, “ótimo”
+3.2 Negativo → “ruim”, “péssimo
+Resposta:
+9- Sistemas de recomendação armazenam preferências dos usuários para
+sugerir conteúdos personalizados.
+
+Ótima atividade. Obrigado!
+1. Solicite o gênero favorito do usuário
+2. Utilize if/else para recomendar um filme
+3. Salve a recomendação em um arquivo chamado recomendacoes.txt
