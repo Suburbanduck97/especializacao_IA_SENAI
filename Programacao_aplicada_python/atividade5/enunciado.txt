@@ -1,0 +1,117 @@
+1- Aplicações financeiras utilizam APIs para consultar informações em tempo
+real, como cotações de moedas. Crie um programa que:
+a) Utilize a API da AwesomeAPI
+b) Consulte a cotação do dólar
+c) Exiba apenas o valor atual da moeda
+Resposta:
+
+2- Diversas APIs retornam informações em formato JSON para integração
+entre sistemas. Desenvolva um programa que:
+a) Faça uma requisição para a API: c
+b) Exiba os dados retornados pela API
+Resposta:
+
+Ótima atividade. Obrigado!
+
+3- Aplicações de Inteligência Artificial frequentemente retornam respostas
+organizadas em formato JSON.
+1. Crie um dicionário Python simulando uma resposta de IA contendo:
+1.1. Pergunta
+1.2. Resposta
+1.3. Converta os dados para JSON
+1.4. Exiba o resultado na tela
+
+Resposta:
+
+4- Sistemas modernos utilizam APIs para consultar informações de diferentes
+países e localidades. Crie um programa que:
+1. Consulte a API: https://restcountries.com/v3.1/name/brazil
+2. Exiba:
+2.1. Nome do país
+2.2. Capital
+2.3. População
+
+Resposta:
+
+Ótima atividade. Obrigado!
+
+5- Aplicações inteligentes precisam interpretar dados recebidos em formato
+JSON. Analise o JSON abaixo e exiba: o nome e a idade.
+
+Resposta:
+
+6- Aplicações podem armazenar dados recebidos de APIs para análises futuras.
+Desenvolva um programa que:
+a) Consulte uma API pública
+b) Salve os dados recebidos em um arquivo chamado dados_api.json
+Resposta:
+
+Ótima atividade. Obrigado!
+
+7- Chatbots frequentemente organizam mensagens em formato JSON. Crie um
+programa que:
+1. Solicite uma pergunta do usuário
+2. Crie um JSON contendo:
+2.1. Pergunta
+2.2. Resposta automática
+3. Exiba o JSON formatado na tela
+
+Resposta:1- Aplicações financeiras utilizam APIs para consultar informações em tempo
+real, como cotações de moedas. Crie um programa que:
+a) Utilize a API da AwesomeAPI
+b) Consulte a cotação do dólar
+c) Exiba apenas o valor atual da moeda
+Resposta:
+
+2- Diversas APIs retornam informações em formato JSON para integração
+entre sistemas. Desenvolva um programa que:
+a) Faça uma requisição para a API: https://api.github.com
+b) Exiba os dados retornados pela API
+Resposta:
+
+Ótima atividade. Obrigado!
+
+3- Aplicações de Inteligência Artificial frequentemente retornam respostas
+organizadas em formato JSON.
+1. Crie um dicionário Python simulando uma resposta de IA contendo:
+1.1. Pergunta
+1.2. Resposta
+1.3. Converta os dados para JSON
+1.4. Exiba o resultado na tela
+
+Resposta:
+
+4- Sistemas modernos utilizam APIs para consultar informações de diferentes
+países e localidades. Crie um programa que:
+1. Consulte a API: https://restcountries.com/v3.1/name/brazil
+2. Exiba:
+2.1. Nome do país
+2.2. Capital
+2.3. População
+
+Resposta:
+
+Ótima atividade. Obrigado!
+
+5- Aplicações inteligentes precisam interpretar dados recebidos em formato
+JSON. Analise o JSON abaixo e exiba: o nome e a idade.
+
+Resposta:
+
+6- Aplicações podem armazenar dados recebidos de APIs para análises futuras.
+Desenvolva um programa que:
+a) Consulte uma API pública
+b) Salve os dados recebidos em um arquivo chamado dados_api.json
+Resposta:
+
+Ótima atividade. Obrigado!
+
+7- Chatbots frequentemente organizam mensagens em formato JSON. Crie um
+programa que:
+1. Solicite uma pergunta do usuário
+2. Crie um JSON contendo:
+2.1. Pergunta
+2.2. Resposta automática
+3. Exiba o JSON formatado na tela
+
+Resposta:
