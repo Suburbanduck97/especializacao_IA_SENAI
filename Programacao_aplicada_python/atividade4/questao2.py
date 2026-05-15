@@ -1,5 +1,5 @@
-PATH = '\\Users\\erics\\Downloads\\codigos\\Especializacao-IA-SENAI\\Programacao_aplicada_python'
-COMPLETE_NAME = f'{PATH}\\chatbot.txt'
+PATH = 'C:\\Users\\erics\\Downloads\\codigos\\Especializacao-IA-SENAI\\Programacao_aplicada_python\\atividade4'
+COMPLETE_NAME = {PATH}/'chatbot.txt'
 
 def datasave(message):
     with open(COMPLETE_NAME, 'a', encoding='utf-8') as arquive:

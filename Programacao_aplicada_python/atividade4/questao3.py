@@ -1,5 +1,5 @@
-PATH = '\\Users\\erics\\Downloads\\codigos\\Especializacao-IA-SENAI\\Programacao_aplicada_python'
-COMPLETE_NAME = f'{PATH}\\notas.txt'
+PATH = 'C:\\Users\\erics\\Downloads\\codigos\\Especializacao-IA-SENAI\\Programacao_aplicada_python\\atividade4'
+COMPLETE_NAME = {PATH}/'notas.txt'
 
 def verify_data(nota):
     try:
