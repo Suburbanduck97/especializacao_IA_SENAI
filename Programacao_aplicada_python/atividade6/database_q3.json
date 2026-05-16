@@ -1,0 +1,28 @@
+{
+    "filmes":{
+        "ficcao_cientifica":{
+            "titulo":"Interstellar",
+            "categoria":"Ficção  Científica",
+            "ano": "2014",
+            "avaliacao":"8.7/10"
+        },
+        "drama":{
+            "titulo":"The Godfather",
+            "categoria":"Drama",
+            "ano":"1972",
+            "avaliacao":"9.2/10"
+        },
+        "fantasia":{
+            "titulo":"Spirited Away",
+            "categoria":"Fantasia",
+            "ano":"2001",
+            "avaliacao":"8.6/10"
+        },
+        "terror":{
+            "titulo":"Get Out",
+            "categoria":"Terror",
+            "ano":"2001",
+            "avaliacao":"7.8/10"
+        }
+    }
+}

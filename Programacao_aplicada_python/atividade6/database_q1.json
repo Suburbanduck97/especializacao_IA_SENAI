@@ -1,0 +1,15 @@
+{
+    "message":{
+        "initial":"Olá como posso ajudar?",
+        "progress":"Posso ajudar em algo mais?",
+        "end":"Chat encerrado!",
+        "confused":"Desculpe, não entendi sua mensagem!"
+    },
+    "response":{
+        "cart":"Você tem 4 itens no carrinho",
+        "shopping":"Celular Iphone 14/128GB/Vermelho",
+        "devolution":"Você Não Possui devoluções",
+        "address":"Enderço cadastrado: R.Henrique Dias, 20 - Roma, Salvador - BA, 40444-100",
+        "delivery":"1 entrega realizada"
+    }
+}
